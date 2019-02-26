@@ -1,2 +1,2 @@
-def get_logger():
+def get_logger(args):
     return "logger"
