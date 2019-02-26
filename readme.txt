@@ -1,5 +1,3 @@
-Git is version control system
+Git is distribute version control system
 git is free software
 
-
-last_modify
